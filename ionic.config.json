@@ -1,0 +1,7 @@
+{
+  "name": "ionic-image-upload-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
